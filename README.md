@@ -2,7 +2,7 @@
 
 Code to accompany article submission.
 
-# Record-level Perplexity, Matchability & Pre-linkage Ambiguity for Splink
+# Record-level conditional Perplexity & Matchability
 
 ## Overview
 - **Goal:** quantify *how certain* a linkage decision is **per record**, and summarise uncertainty for **sub-populations** and the **whole dataset**.  
